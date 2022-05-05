@@ -1,1 +1,1 @@
-Simple CRUD (create, Read, Update, Delete) Operation with Laravel 5.7, follow step by step how to perform CRUD App from our website http://www.phpsync.com/2018/10/laravel-57-crud-operation-with-example.html
+Simple CRUD (create, Read, Update, Delete) Operation with Laravel 5.7, follow step by step how to perform CRUD App from our website https://scqq.blogspot.com/2018/10/laravel-57-crud-operation-with-example.html
